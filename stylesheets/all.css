@@ -12280,14 +12280,14 @@ textarea.form-control-lg {
   align-items: center;
 }
 
-.section-with-overlay {
+.section-with-over {
   position: relative;
-  background-image: url("pictures/floor-tile.png");
+  background-image: url("../pictures/訂閱底圖.png");
   background-size: cover;
   background-position: center;
 }
 
-.section-with-overlay::before {
+.section-with-over::before {
   content: "";
   position: absolute;
   top: 0;
